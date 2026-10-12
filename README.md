@@ -1,4 +1,4 @@
-# Snake Game — Advanced C++ Mini-Project
+# Snake Game — C++ Mini-Project
 
 A real-time console Snake game for Ubuntu/Linux, written in C++17. It uses only the C++ standard library and POSIX terminal APIs; no third-party game library is required.
 
